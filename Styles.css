@@ -7,3 +7,16 @@ body {
     height: 100vh;
     margin: 0;
 }
+
+.container{
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #ac7ed6;
+    width: 400px;
+}
+
+h1 {
+    text-align: left;
+    color: #000000;
+}
