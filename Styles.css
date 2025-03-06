@@ -42,4 +42,28 @@ h1 {
     font-size: 12px;
     color: #7c7272;
 }
+.textbox button {
+    width: 100%;
+    padding: 10px;
+    background-color: #8d3dd8; 
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    text-align: center;
+}
 
+.textbox button:hover {
+    background-color: #8e24aa; 
+    align-items: center;
+}
+
+.register {
+    text-align: center;
+    font-size: 14px;
+}
+
+.register a {
+    text-decoration: none;
+    color: #007BFF;
+}
